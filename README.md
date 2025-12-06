@@ -16,9 +16,8 @@ This project tackles the surge of NLP publications (arXiv, ACL, EMNLP, etc.) by 
 Final-Project-Group-LexiCore/
 ├── code/                          # Jupyter notebooks with implementation
 │   ├── Retrieval_Topic_Modeling.ipynb        # Core retrieval & topic modeling pipeline
-│   ├── Week1_implementation_AdityaKanbargi.ipynb  # Week 1 data ingestion & preprocessing
-│   ├── Week_3_Implementation_Trisha.ipynb    # Week 3 classification & summarization
-│   └── Week_3_Integration_UI_Explainability_Trisha.ipynb  # UI & explainability integration
+│   ├── Week1_implementation_AdityaKanbargi.ipynb  # Week 1 data ingestion & preprocessing 
+│   └── Week_3_Integration_UI_Explainability_Trisha.ipynb  # classification summarizatioUI & explainability integration
 │
 ├── data/                          # Data files and artifacts
 │   ├── raw/                       # Raw downloaded datasets (arXiv, etc.)
